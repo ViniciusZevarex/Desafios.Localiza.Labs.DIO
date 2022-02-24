@@ -1,0 +1,16 @@
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\Desafios.exe
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\Desafios.deps.json
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\Desafios.runtimeconfig.json
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\Desafios.runtimeconfig.dev.json
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\Desafios.dll
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\ref\Desafios.dll
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\bin\Debug\net5.0\Desafios.pdb
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.AssemblyInfo.cs
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.dll
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\ref\Desafios.dll
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.pdb
+D:\CURSOS\.NET\Localiza Labs\desafios\Desafio 4 - Xenlonguinho\obj\Debug\net5.0\Desafios.genruntimeconfig.cache
